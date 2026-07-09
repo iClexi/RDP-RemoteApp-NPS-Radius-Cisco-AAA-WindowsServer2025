@@ -63,7 +63,7 @@ El laboratorio demuestra dos partes principales:
 ## Estructura del repositorio
 
 ```text
-RDS_NPS_RADIUS_20250845/
+RDP-RemoteApp-NPS-Radius-Cisco-AAA-WindowsServer2025/
 ├── README.md
 ├── images/
 │   ├── 01-topologia.png
