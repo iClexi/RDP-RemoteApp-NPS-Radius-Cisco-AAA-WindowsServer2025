@@ -228,7 +228,7 @@ debug aaa authorization
 debug aaa accounting
 debug radius
 ```
-### Evidencia 23: Activación de debug AAA y RADIUS en R1
+### Activación de debug AAA y RADIUS en R1
 
 ![Activación de debug AAA y RADIUS en R1](images/23-debug-aaa-radius-activo.png)
 
