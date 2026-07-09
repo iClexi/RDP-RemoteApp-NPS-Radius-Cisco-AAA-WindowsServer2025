@@ -18,8 +18,8 @@
 **Servidor:** Windows Server 2025  
 **Dominio:** `michael20250845.local`  
 **FQDN RDS/RDWeb/RD Gateway:** `srv-rds-nps.redes.local`  
-**Video de Youtube:** `https://youtu.be/Ss2mVlgVoF8`
-
+**Video de YouTube:** [Ver video](https://youtu.be/Ss2mVlgVoF8)  
+**Video de YouTube:** Link Directo: https://youtu.be/Ss2mVlgVoF8
 
 ## Enlaces del laboratorio
 
@@ -27,8 +27,6 @@
 - RD Web Access clásico: `https://srv-rds-nps.redes.local/RDWeb/Pages/en-US/login.aspx`
 - RD Web Client HTML5: `https://srv-rds-nps.redes.local/RDWeb/webclient/index.html`
 - SSH hacia R1: `10.8.45.1`
-- Repositorio GitHub: pendiente de publicar.
-- Video de demostración: pendiente de publicar.
 
 ## Objetivo
 
