@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows%20Server-2025-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-RemoteApp-2D7D9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RD%20Web-Access-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Client-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS-Web%20Server-5E5E5E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NPS-RADIUS-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AAA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNS3-Lab-F97316?style=for-the-badge" />
+</p>
+
 # Laboratorio RDS, IIS, NPS/RADIUS y AAA Cisco
 
 **Autor:** Michael David Robles Fermín  
@@ -6,6 +18,7 @@
 **Servidor:** Windows Server 2025  
 **Dominio:** `michael20250845.local`  
 **FQDN RDS/RDWeb/RD Gateway:** `srv-rds-nps.redes.local`
+**Video de Youtube:** `https://youtu.be/Ss2mVlgVoF8`
 
 ## Enlaces del laboratorio
 
