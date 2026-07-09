@@ -17,7 +17,7 @@
 **Asignatura:** Seguridad de Redes  
 **Servidor:** Windows Server 2025  
 **Dominio:** `michael20250845.local`  
-**FQDN RDS/RDWeb/RD Gateway:** `srv-rds-nps.redes.local`
+**FQDN RDS/RDWeb/RD Gateway:** `srv-rds-nps.redes.local`  
 **Video de Youtube:** `https://youtu.be/Ss2mVlgVoF8`
 
 
