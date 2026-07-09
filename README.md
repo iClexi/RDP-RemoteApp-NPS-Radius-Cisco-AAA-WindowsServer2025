@@ -223,13 +223,18 @@ show privilege
 ### Debugs solicitados
 
 ```cisco
-terminal monitor
 debug aaa authentication
 debug aaa authorization
 debug aaa accounting
 debug radius
-show debugging
 ```
+### Evidencia 23: Activación de debug AAA y RADIUS en R1
+
+![Activación de debug AAA y RADIUS en R1](images/23-debug-aaa-radius-activo.png)
+
+En esta evidencia se muestra la activación de los comandos de depuración solicitados para el proceso AAA y RADIUS en el router R1. Se ejecutan `debug aaa authentication`, `debug aaa authorization` y `debug radius`, permitiendo observar el comportamiento del router durante la autenticación y autorización de usuarios.
+
+Esta captura se incluye como evidencia complementaria de los mecanismos de depuración usados durante las pruebas. Aunque algunos subtipos internos de RADIUS aparecen como `off`, el debug principal del protocolo RADIUS queda activo, junto con la depuración de autenticación y autorización AAA. Esto permite validar que R1 estaba preparado para mostrar eventos relacionados con la comunicación hacia el servidor NPS/RADIUS.
 
 Apagar debug:
 
