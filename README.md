@@ -23,8 +23,23 @@
 
 ---
 
+## Documentación técnica profesional
+
+La documentación técnica profesional en PDF se encuentra dentro de la carpeta `docs` del repositorio:
+
+[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesional.pdf)
+
+Ruta del archivo:
+
+```text
+docs/Documentacion Tecnica Profesional.pdf
+```
+
+---
+
 ## Enlaces del laboratorio
 
+- Documentación técnica profesional: [docs/Documentacion Tecnica Profesional.pdf](docs/Documentacion%20Tecnica%20Profesional.pdf)
 - Página IIS personalizada: `http://10.8.45.130/`
 - RD Web Access clásico: `https://srv-rds-nps.redes.local/RDWeb/Pages/en-US/login.aspx`
 - RD Web Client HTML5: `https://srv-rds-nps.redes.local/RDWeb/webclient/index.html`
@@ -79,7 +94,7 @@ RDS_NPS_RADIUS_20250845/
 │   ├── SW1.cfg
 │   └── SW2.cfg
 └── docs/
-    └── resumen-laboratorio-20250845.txt
+    └── Documentacion Tecnica Profesional.pdf
 ```
 
 ---
